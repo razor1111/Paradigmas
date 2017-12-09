@@ -1,3 +1,5 @@
+%alunos: ANTONIO RODRIGUES DE SOUZA NETO - 1615310028
+		 THIAGO SANTOS BORGES - 1615310023
 1)
 pai(joão,joaquim).
 pai(joão,joaquina).
